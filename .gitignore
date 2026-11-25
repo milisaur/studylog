@@ -1,0 +1,9 @@
+/studylog
+/active.json
+/active.backup.json
+/sessions.csv
+/sessions.csv.*
+/sessions-*.tmp
+/*.bak
+/*.zip
+/*.patch
